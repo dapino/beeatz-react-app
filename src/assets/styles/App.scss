@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto+Slab&display=swap');
+
+@import "./_variables";
+@import "./_utils";
+
+body {
+  font-family: $content-font;
+  margin: 0;
+}
